@@ -12,7 +12,7 @@
   Hi, I'm Edwin Gichuhi, Software Developer from KENYA
   <br>
   <br>
-  👨‍🎓 I'm currently a Software Developer at Microverse Inc.
+  👨‍🎓 I'm currently a Software Developer at Cryosoft Corporation and a trainee at Microverse Inc.
   <br>
   💻 I love Writing code, learning new things and concepts 😊
   <br>
