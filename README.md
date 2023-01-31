@@ -1,22 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EdwinGichuhi/EdwinGichuhi" alt="EdwinGichuhi">    
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+EdwinGichuhi;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Edwin+Gichuhi;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
   </a>
 </h1>
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Edwin Gichuhi, Software Developer from KENYA
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I'm currently a Software Developer at Microverse Inc.
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love Writing code, learning new things and concepts 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on React and Ruby on  Rails as a Full Stack Developer 
   <br>
   📫 How to reach me 👇
 </p>
