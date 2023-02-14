@@ -46,20 +46,6 @@
 </p>
 
 <hr>
-<h2 align="center">💹 Most Popular Repos</h2>
-<br>
-<p align="center">
-<a href="[https://github.com/egichuhis/egichuhis.github.io](https://github.com/egichuhis/egichuhis.github.io)]">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egichuhis&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-  
-<a href="https://github.com/egichuhis/Learn-CSS/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egichuhis&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-</p>
-
-<hr>
 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=egichuhis/egichuhis" alt="egichuhis"/>       
