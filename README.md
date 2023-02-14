@@ -16,7 +16,7 @@
   <br>
   💻 I love Writing code, learning new things and concepts 😊
   <br>
-  📚 I’m currently focusing on React and Ruby on  Rails as a Full Stack Developer 
+  📚 I'm currently doing awesome projects at Cryosoft Corporation!
   <br>
   📫 How to reach me 👇
 </p>
