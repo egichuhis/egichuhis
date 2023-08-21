@@ -14,13 +14,13 @@
   <br>
   👨‍🎓 I'm currently a Software Developer at Cryosoft Corporation and a trainee at Microverse Inc.
   <br>
-  💻 I love Writing code, learning new things and concepts 😊
+  💻 I love Writing code, and learning new things and concepts 😊
   <br>
   📚 I'm currently doing awesome projects at Cryosoft Corporation!
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="[https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/](https://www.linkedin.com/in/edwin-gichuhi/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:edwingichuhis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://github.com/egichuhis/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23><a href="https://t.me/Egichuhis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
+<p align="center"> <a href="[https://www.linkedin.com/in/edwin-gichuhi/](https://www.linkedin.com/in/edwin-gichuhi/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:edwingichuhis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="https://github.com/egichuhis/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23><a href="https://t.me/Egichuhis"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
 <hr>
 <h2 align="center">Languages | Frameworks | Tools | Abilities</h2><br>
 <p align="center">
