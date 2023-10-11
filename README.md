@@ -1,6 +1,6 @@
-### <h1 align="center">Hi 👋, I'm Ayokunnumi</h1>
+### <h1 align="center">Hi 👋, I'm Edwin Gichuhi</h1>
 
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img width="400" align="right"src="https://media2.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e475jc9d7ir1ja1inowg6c63f5pjamfwf7ola2l25va&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayokunnumi1&label=Profile%20views&color=0e75b6&style=flat" alt="ayokunnumi1" /> </p>
