@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/egichuhis" target="blank"><img src="https://img.shields.io/twitter/follow/egichuhis?logo=twitter&style=for-the-badge" alt="egichuhis" /></a> </p>
 
-- 👨‍💻 I’m currently crafting software solutions at [Cryosoft Corporation](https://cryosoft.co.ke/)
+- 👨‍💻 I’m currently crafting software solutions at [En'Darata Africa](https://endarataafrica.co.ke/)
 - 🌱 I’m also sharpening my tech and soft skills at [Microverse](https://www.microverse.org/)
 - 👨‍💻 All of my projects are available at [https://egichuhis.github.io/](https://egichuhis.github.io/)
 
